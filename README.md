@@ -9,7 +9,7 @@
 <img 
       alt="GitHub Stats" 
       height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianebastos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeBastos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 <div style="display: inline_block"><br>

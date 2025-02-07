@@ -6,9 +6,11 @@
 - 🌱 Estudando Python.
 - 📫 Contate-me no e-mail: vivianes.bastos@hotmail.com
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vivianebastos&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
-</div>
+<img 
+      alt="GitHub Stats" 
+      height="100" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianebastos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

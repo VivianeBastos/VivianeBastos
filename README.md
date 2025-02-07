@@ -5,6 +5,7 @@
 - 🎓 Estou cursando Engenharia de Software.
 - 🌱 Estudando Python.
 - 📫 Contate-me no e-mail: vivianes.bastos@hotmail.com
+
   
 <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianebastos&layout=compact&langs_count-16&theme-dark"/>
 

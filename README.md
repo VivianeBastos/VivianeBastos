@@ -4,7 +4,6 @@
 - 🔭 Trabalho sendo suporte Técnico da Samsung (atendimento via chat) em casa.
 - 🎓 Estou cursando Engenharia de Software.
 - 🌱 Estudando Python.
-- 📫 Contate-me no e-mail: vivianes.bastos@hotmail.com
 
 <img 
       alt="GitHub Stats" 

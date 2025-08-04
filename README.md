@@ -1,7 +1,7 @@
 ## Oie! Eu sou a Viviane. 
 
 - 🎓 Estou cursando Engenharia de Software.
-- 🌱 Estudando Python.
+- 🌱 Estudando Java.
 
 <img 
       alt="GitHub Stats" 

@@ -1,7 +1,5 @@
 ## Oie! Eu sou a Viviane. 
 
-
-- 🔭 Trabalho sendo suporte Técnico da Samsung (atendimento via chat) em casa.
 - 🎓 Estou cursando Engenharia de Software.
 - 🌱 Estudando Python.
 

@@ -2,9 +2,8 @@
 
 - 🎓 Estou cursando Engenharia de Software.
 
-
+<br>
 <h2>Skills </h2>
-
 <div style="display: inline_block"><br>
   <p><b>Languages:</b></p>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg">

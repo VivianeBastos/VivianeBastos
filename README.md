@@ -3,9 +3,10 @@
 - 🎓 Estou cursando Engenharia de Software.
 - 🌱 Estudando Java.
 
+<h1>Skills </h1>
 
 <div style="display: inline_block"><br>
-  <h1>Linguagens</h1>
+  <p>Linguagens</p>
   <img align="center" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

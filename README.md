@@ -3,7 +3,7 @@
 - 🎓 Estou cursando Engenharia de Software.
 - 🌱 Estudando Java.
 
-<h1>Skills </h1>
+<h2>Skills </h2>
 
 <div style="display: inline_block"><br>
   <p><b>Languages:</b></p>

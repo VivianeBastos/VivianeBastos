@@ -15,6 +15,7 @@
 <div style="display: inline_block"><br>
   <p><b>Frameworks & Libraries:</b></p>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TailwindCSS-Dark.svg">
   
 </div>
 

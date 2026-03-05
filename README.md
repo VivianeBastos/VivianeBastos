@@ -1,7 +1,6 @@
 ## Oie! Eu sou a Viviane. 
 
 - 🎓 Estou cursando Engenharia de Software.
-- 🌱 Estudando Java.
 
 <h2>Skills </h2>
 

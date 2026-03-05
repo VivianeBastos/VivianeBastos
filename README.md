@@ -1,6 +1,6 @@
 ## Oie! Eu sou a Viviane. 
 
-- 🎓 Estou cursando Engenharia de Software.
+🎓 Estou cursando Engenharia de Software.
 
 <br>
 <h2>Skills </h2>

@@ -14,7 +14,7 @@
 
 <div style="display: inline_block"><br>
   <h1>Frameworks & Bibliotecas</h1>
-  <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
 </div>
 
 

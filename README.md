@@ -3,9 +3,8 @@
 🎓 Estou cursando Engenharia de Software.
 
 ⚡ Linguagens e Tecnologias
-
-## Programming Languages
 <div style="display: inline_block">
+    
 <img 
     align="left" 
     alt="HTML"
@@ -38,7 +37,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-</div>
 <img 
     align="left" 
     alt="React"
@@ -53,7 +51,7 @@
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg](https://nodejs.org/static/logos/jsIconGreen.svg" 
 />
 <img 
     align="left" 
@@ -122,6 +120,7 @@
 
 <br/>
 <br/>
+</div>
 
 
 ---

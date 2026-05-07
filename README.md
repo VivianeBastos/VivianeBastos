@@ -2,7 +2,6 @@
 
 🎓 Estou cursando Engenharia de Software.
 
-<br>
 <img 
     align="left" 
     alt="HTML"

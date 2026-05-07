@@ -53,15 +53,3 @@
 
 ---
 
-## 📚 Atualmente estudando
-- React
-- TypeScript
-- Desenvolvimento Web
-
----
-
-## 📫 Contato
-- LinkedIn
-- Email
-
-

@@ -4,12 +4,12 @@
 
 <br>
 <h2>Skills </h2>
-<div style="display: inline" >
+<div style="display: inline_block">
   <p><b>Languages:</b></p>
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TypeScript.svg">
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg">
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg">
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg">
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TypeScript.svg">
 </div>
 
 <div style="display: inline_block"><br>
